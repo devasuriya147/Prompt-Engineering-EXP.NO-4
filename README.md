@@ -1,6 +1,6 @@
-Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
+## Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
 
-Aim: 
+## Aim: 
 To write the prompt for the following prompt types. 
 1. Comparative Analysis Prompt 
 
@@ -10,7 +10,7 @@ To write the prompt for the following prompt types.
 
 Explanation -  Write the prompt for any one use case from Unit 5 or any 2 own use cases for each type.
 
-Procedure:
+## Procedure:
 
 1.Define the Scenario and Use Case: 
 
