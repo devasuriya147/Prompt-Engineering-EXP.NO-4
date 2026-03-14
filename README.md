@@ -39,6 +39,19 @@ Everyday Functioning Prompts:
  
   “How is encryption used in daily life when sending WhatsApp messages?”
 
-  OUTPUT:
+## OUTPUT:
 
-  RESULT:
+  
+## Comparative Analysis Prompt (Smartphone use case)
+“Compare Smartphone A and Smartphone B for a college student in terms of battery life, AI camera quality, overall performance for social media and online classes, storage capacity, and price. Present the comparison in a clear table, then recommend which phone is better for daily student use with a short justification.”
+​
+
+## Experiential Perspective Prompt (Smartphone in daily life)
+“From the perspective of a first-year engineering student who uses a smartphone all day, describe how features like long battery life, AI-powered camera, fast processor, and sufficient storage impact daily activities such as attending online classes, taking notes, communicating on WhatsApp, watching YouTube, and using learning apps. Explain with simple real-life examples.”
+​
+
+## Everyday Functioning Prompt (AI features in the phone)
+“Explain how artificial intelligence features in a modern smartphone (such as AI camera enhancement, battery optimization, and personalized app suggestions) help in everyday life. Describe how these features work in the background when a user is taking photos, multitasking between apps, and managing notifications throughout a typical day
+
+## RESULT:
+All three prompt types were successfully generated for the smartphone use case. The Comparative Analysis prompt helps in decision-making by comparing options, the Experiential Perspective prompt provides user-centered insights, and the Everyday Functioning prompt explains technical features in practical terms. These different prompt patterns are useful for different purposes in prompt engineering.
