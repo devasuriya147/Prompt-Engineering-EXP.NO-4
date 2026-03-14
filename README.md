@@ -53,5 +53,6 @@ Everyday Functioning Prompts:
 ## Everyday Functioning Prompt (AI features in the phone)
 “Explain how artificial intelligence features in a modern smartphone (such as AI camera enhancement, battery optimization, and personalized app suggestions) help in everyday life. Describe how these features work in the background when a user is taking photos, multitasking between apps, and managing notifications throughout a typical day
 
+
 ## RESULT:
 All three prompt types were successfully generated for the smartphone use case. The Comparative Analysis prompt helps in decision-making by comparing options, the Experiential Perspective prompt provides user-centered insights, and the Everyday Functioning prompt explains technical features in practical terms. These different prompt patterns are useful for different purposes in prompt engineering.
